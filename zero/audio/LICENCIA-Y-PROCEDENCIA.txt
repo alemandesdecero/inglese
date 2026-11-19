@@ -1,0 +1,18 @@
+EDICIÓN DE AUDIO PUBLICABLE
+
+Libro: Imparare l'Inglese da Zero
+Voz seleccionada: bf_isabella (femenina británica)
+Motor: Kokoro 82M v1.0 ONNX
+Licencia declarada por el proveedor del modelo: Apache License 2.0
+Generación: local, sin servicios de pago y sin envío de los guiones a una nube
+Fecha de producción: 21 de septiembre de 2026
+
+Modelo y documentación:
+https://huggingface.co/hexgrad/Kokoro-82M
+
+Voces y características:
+https://huggingface.co/hexgrad/Kokoro-82M/blob/main/VOICES.md
+
+La página principal y la pista de bienvenida informan de que la narración usa
+una voz sintética.
+
